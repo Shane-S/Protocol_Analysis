@@ -1,0 +1,392 @@
+Start timestamp: 2014-02-10T08:01:01:804TZD
+End timestamp: 2014-02-10T08:01:01:809TZD
+Transfer time: 5ms
+Packet size: 1024 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:01:12:763TZD
+End timestamp: 2014-02-10T08:01:12:768TZD
+Transfer time: 5ms
+Packet size: 1024 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:01:21:080TZD
+End timestamp: 2014-02-10T08:01:21:085TZD
+Transfer time: 5ms
+Packet size: 1024 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:01:29:788TZD
+End timestamp: 2014-02-10T08:01:29:794TZD
+Transfer time: 6ms
+Packet size: 1024 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:01:44:171TZD
+End timestamp: 2014-02-10T08:01:44:206TZD
+Transfer time: 35ms
+Packet size: 1024 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:01:52:577TZD
+End timestamp: 2014-02-10T08:01:52:616TZD
+Transfer time: 39ms
+Packet size: 1024 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:02:00:092TZD
+End timestamp: 2014-02-10T08:02:00:131TZD
+Transfer time: 39ms
+Packet size: 1024 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:02:15:026TZD
+End timestamp: 2014-02-10T08:02:15:042TZD
+Transfer time: 16ms
+Packet size: 4096 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:02:22:481TZD
+End timestamp: 2014-02-10T08:02:22:494TZD
+Transfer time: 13ms
+Packet size: 4096 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:02:29:960TZD
+End timestamp: 2014-02-10T08:02:29:973TZD
+Transfer time: 13ms
+Packet size: 4096 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:02:42:431TZD
+End timestamp: 2014-02-10T08:02:42:544TZD
+Transfer time: 113ms
+Packet size: 4096 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:02:51:401TZD
+End timestamp: 2014-02-10T08:02:51:513TZD
+Transfer time: 112ms
+Packet size: 4096 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:02:59:231TZD
+End timestamp: 2014-02-10T08:02:59:342TZD
+Transfer time: 111ms
+Packet size: 4096 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:03:12:472TZD
+End timestamp: 2014-02-10T08:03:12:509TZD
+Transfer time: 37ms
+Packet size: 20480 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:03:20:894TZD
+End timestamp: 2014-02-10T08:03:20:932TZD
+Transfer time: 38ms
+Packet size: 20480 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:03:29:759TZD
+End timestamp: 2014-02-10T08:03:29:800TZD
+Transfer time: 41ms
+Packet size: 20480 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:03:44:446TZD
+End timestamp: 2014-02-10T08:03:44:786TZD
+Transfer time: 340ms
+Packet size: 20480 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:03:52:878TZD
+End timestamp: 2014-02-10T08:03:53:233TZD
+Transfer time: 355ms
+Packet size: 20480 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:04:00:951TZD
+End timestamp: 2014-02-10T08:04:01:268TZD
+Transfer time: 317ms
+Packet size: 20480 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:04:20:821TZD
+End timestamp: 2014-02-10T08:04:20:894TZD
+Transfer time: 73ms
+Packet size: 61440 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:04:29:516TZD
+End timestamp: 2014-02-10T08:04:29:587TZD
+Transfer time: 71ms
+Packet size: 61440 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:04:37:805TZD
+End timestamp: 2014-02-10T08:04:37:873TZD
+Transfer time: 68ms
+Packet size: 61440 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:04:51:562TZD
+End timestamp: 2014-02-10T08:04:52:278TZD
+Transfer time: 716ms
+Packet size: 61440 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:05:00:006TZD
+End timestamp: 2014-02-10T08:05:00:650TZD
+Transfer time: 644ms
+Packet size: 61440 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:05:08:804TZD
+End timestamp: 2014-02-10T08:05:09:460TZD
+Transfer time: 656ms
+Packet size: 61440 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: TCP
+
+Start timestamp: 2014-02-10T08:05:26:726TZD
+End timestamp: 2014-02-10T08:05:26:728TZD
+Transfer time: 2ms
+Packet size: 1024 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:05:35:797TZD
+End timestamp: 2014-02-10T08:05:35:799TZD
+Transfer time: 2ms
+Packet size: 1024 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:05:43:685TZD
+End timestamp: 2014-02-10T08:05:43:688TZD
+Transfer time: 3ms
+Packet size: 1024 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:05:57:182TZD
+End timestamp: 2014-02-10T08:05:57:209TZD
+Transfer time: 27ms
+Packet size: 1024 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:06:05:708TZD
+End timestamp: 2014-02-10T08:06:05:730TZD
+Transfer time: 22ms
+Packet size: 1024 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:06:13:334TZD
+End timestamp: 2014-02-10T08:06:13:365TZD
+Transfer time: 31ms
+Packet size: 1024 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:06:27:774TZD
+End timestamp: 2014-02-10T08:06:27:783TZD
+Transfer time: 9ms
+Packet size: 4096 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:06:36:253TZD
+End timestamp: 2014-02-10T08:06:36:260TZD
+Transfer time: 7ms
+Packet size: 4096 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:06:44:509TZD
+End timestamp: 2014-02-10T08:06:44:517TZD
+Transfer time: 8ms
+Packet size: 4096 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:07:09:868TZD
+End timestamp: 2014-02-10T08:07:09:971TZD
+Transfer time: 103ms
+Packet size: 4096 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:07:18:473TZD
+End timestamp: 2014-02-10T08:07:18:570TZD
+Transfer time: 97ms
+Packet size: 4096 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:14:38:213TZD
+End timestamp: 2014-02-10T08:14:38:333TZD
+Transfer time: 120ms
+Packet size: 4096 bytes
+Packets received : 99
+Packets expected : 100
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:07:38:366TZD
+End timestamp: 2014-02-10T08:07:38:387TZD
+Transfer time: 21ms
+Packet size: 20480 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:07:46:796TZD
+End timestamp: 2014-02-10T08:07:46:812TZD
+Transfer time: 16ms
+Packet size: 20480 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:07:55:565TZD
+End timestamp: 2014-02-10T08:07:55:586TZD
+Transfer time: 21ms
+Packet size: 20480 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:15:51:731TZD
+End timestamp: 2014-02-10T08:15:51:966TZD
+Transfer time: 235ms
+Packet size: 20480 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:16:00:689TZD
+End timestamp: 2014-02-10T08:16:00:895TZD
+Transfer time: 206ms
+Packet size: 20480 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:16:09:200TZD
+End timestamp: 2014-02-10T08:16:09:430TZD
+Transfer time: 230ms
+Packet size: 20480 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:16:23:662TZD
+End timestamp: 2014-02-10T08:16:23:719TZD
+Transfer time: 57ms
+Packet size: 61440 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:16:31:871TZD
+End timestamp: 2014-02-10T08:16:31:926TZD
+Transfer time: 55ms
+Packet size: 61440 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:16:40:006TZD
+End timestamp: 2014-02-10T08:16:40:061TZD
+Transfer time: 55ms
+Packet size: 61440 bytes
+Packets received : 10
+Packets expected : 10
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:16:53:686TZD
+End timestamp: 2014-02-10T08:16:54:297TZD
+Transfer time: 611ms
+Packet size: 61440 bytes
+Packets received : 94
+Packets expected : 100
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:17:06:653TZD
+End timestamp: 2014-02-10T08:17:07:257TZD
+Transfer time: 604ms
+Packet size: 61440 bytes
+Packets received : 94
+Packets expected : 100
+Protocol: UDP
+
+Start timestamp: 2014-02-10T08:17:19:935TZD
+End timestamp: 2014-02-10T08:17:20:535TZD
+Transfer time: 600ms
+Packet size: 61440 bytes
+Packets received : 100
+Packets expected : 100
+Protocol: UDP
+
